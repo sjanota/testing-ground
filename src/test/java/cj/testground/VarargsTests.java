@@ -1,3 +1,5 @@
+package cj.testground;
+
 import cj.testground.VarargsClass;
 import org.junit.Test;
 
